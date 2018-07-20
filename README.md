@@ -1,6 +1,7 @@
 # SeaWAS
 For holding code pertaining to the SeaWAS study.
 For more details on the SeaWAS study, please see http://jamia.oxfordjournals.org/content/early/2015/06/01/jamia.ocv046.short 
+The first global study using SeaWAS is here: https://academic.oup.com/jamia/article/25/3/275/4265709
 
 There are 3 scripts:
 1. SeaWAS_demographics_OHDSI.R
